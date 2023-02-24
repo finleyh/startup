@@ -1,3 +1,8 @@
+
+"set cursorline instead of highlights
+set cursorline
+
+" set number lines
 set number
 
 " enable folding
